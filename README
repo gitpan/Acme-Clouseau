@@ -1,0 +1,18 @@
+Acme/Clouseau version 0.01
+==========================
+
+NAME
+  Acme::Clouseau
+
+DESCRIPTION
+	Transforms text into Clouseau-esque speech
+ 
+INSTALLATION
+  It's all pure Perl, so just put the .pm file in its appropriate              
+  local Perl subdirectory
+
+COPYRIGHT AND LICENCE
+  Copyright (C) 2006 Martin-Louis Bright <mlbright@gmail.com>
+
+  This library is free software; you can redistribute it and/or           
+  modify it under the same terms as Perl itself. 
