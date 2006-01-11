@@ -1,4 +1,7 @@
 Revision history for Perl extension Acme::Clouseau.
 
+0.02 Wed Jan 11 14:47:02 EST 2006
+	- corrected a documentation bug
+
 0.01 Wed Jan 11 11:28:46 EST 2006
 	- original version

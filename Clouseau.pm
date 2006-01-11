@@ -23,7 +23,7 @@ our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 
 our @EXPORT = qw(clouseau);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub clouseau {
 
@@ -42,7 +42,7 @@ sub clouseau {
   $text =~ s/\b(\w+)o\b/$1eu/g;
   $text =~ s/\b(\w+)ow\b/$1euw/g;
 
-  # Ay because Ah, as in crazy because crah-zee
+  # Ay becomes Ah, as in crazy becomes crah-zee
 
   $text =~ s/\b(\w)ra(\w+)\b/$1rah$2/g;
   
